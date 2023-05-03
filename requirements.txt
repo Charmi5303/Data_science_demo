@@ -1,5 +1,7 @@
 ### dependency
 streamlit
 numpy
+scikit-learn
+pandas==1.5.0
 
 
